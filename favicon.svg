@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Panorama Ridge mark: Black Tusk spire over the turquoise lake -->
+  <rect width="64" height="64" rx="12" fill="#f5f1ea"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 38 L20 30 L27 24 L30 12 L32 9 L34 13 L36 24 L44 30 L58 38" stroke="#1c1917" stroke-width="2.6"/>
+    <path d="M30 12 L32 15 L34 13" stroke="#1c1917" stroke-width="1.6" opacity="0.6"/>
+    <path d="M8 46 q6 -3 12 0 t12 0 t12 0 t12 0" stroke="#1f8a86" stroke-width="2.6"/>
+    <path d="M12 53 q6 -3 12 0 t12 0 t12 0" stroke="#1f8a86" stroke-width="2.2" opacity="0.6"/>
+  </g>
+  <circle cx="49" cy="13" r="3.2" fill="#a83a63"/>
+</svg>
